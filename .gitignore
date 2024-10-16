@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+stochvol_2024_fall/
+
 # C extensions
 *.so
 
